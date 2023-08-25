@@ -23,12 +23,12 @@ The IC-CQ of a technical replicate is subtracted from the average standard/negat
 ## msocc_models_200123.R
 Performs multilevel occupancy modeling to estimate sample-level capture probabilities and replicate-level detection probabilities as functions of sample volume, filter type, and assay type (qPCR or ddPCR).
 It used models implemented in the msocc package (https://github.com/StrattonCh/msocc)
-### Input files
+### Input files:
 - data/environmental/detections_qpcr_ddpcr_filtered_200123.txt
 
 ## sample_size_sim_030223.R
 Based on estimates of sample-level capture probability and replicate-level detection proability from a multilevel model fit with msocc, calculates the cumulative probsbility of PKD eDNA detection for different numbers of collected samples.
-### Input files
+### Input files:
 - detections_qpcr_ddpcr_filtered_200123.txt
 
 Note: data/environmental/qPCR_data_merged_200123.csv and data/environmental/qPCR_data_with_IC_CQ.xlsx contion data from the same samples. The former was modified so that sample IDs of the Sterivex samples would match those used for the same samples in the ddPCR data.
