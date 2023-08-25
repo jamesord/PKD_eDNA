@@ -15,7 +15,7 @@ library(ggplot2)
 `%not_like%`<-purrr::negate(`%like%`)
 
 # read in file including Millex, Steri, standards.
-samples <- read_excel("data/environmental/qPCR_data_final_changed.xlsx")
+samples <- read_excel("data/environmental/qPCR_data_with_IC_CQ.xlsx")
 
 # get the mean internal control Cq for each run
 # we want columns 13 and 15
