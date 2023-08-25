@@ -31,4 +31,4 @@ Based on estimates of sample-level capture probability and replicate-level detec
 ### Input files
 - detections_qpcr_ddpcr_filtered_200123.txt
 
-Note: data/environmental/qPCR_data_merged_200123.csv and data/environmental/qPCR_data_with_IC_CQ.xlsx contaon data from the same samples. The former was modified so that sample IDs of the Sterivex samples would match those used for the same samples in the ddPCR data.
+Note: data/environmental/qPCR_data_merged_200123.csv and data/environmental/qPCR_data_with_IC_CQ.xlsx contion data from the same samples. The former was modified so that sample IDs of the Sterivex samples would match those used for the same samples in the ddPCR data.
