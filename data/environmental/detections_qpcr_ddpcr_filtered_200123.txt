@@ -1,0 +1,752 @@
+River	Filter_Type	Volume_filtered_ml	Sample_ID	pcr	Result
+AA	Sterivex	300	AA I_1	qPCR	0
+AA	Sterivex	300	AA I_1	qPCR	0
+AA	Sterivex	300	AA II_1	qPCR	0
+AA	Sterivex	300	AA II_1	qPCR	0
+AA	Sterivex	300	AA II_1	qPCR	0
+AA	Sterivex	300	AA II_1	qPCR	0
+AA	Sterivex	300	AA II_1	qPCR	0
+AA	Sterivex	300	AA I_2	qPCR	1
+AA	Sterivex	300	AA I_2	qPCR	1
+AA	Sterivex	300	AA I_2	qPCR	1
+AA	Sterivex	300	AA I_2	qPCR	1
+AA	Sterivex	300	AA II_2	qPCR	0
+AA	Sterivex	300	AA II_2	qPCR	0
+AA	Sterivex	300	AA II_2	qPCR	0
+AA	Sterivex	300	AA II_2	qPCR	0
+AA	Sterivex	300	AA II_2	qPCR	0
+AA	Sterivex	300	AA I_3	qPCR	1
+AA	Sterivex	300	AA I_3	qPCR	1
+AA	Sterivex	300	AA I_3	qPCR	1
+AA	Sterivex	300	AA I_3	qPCR	1
+AA	Sterivex	300	AA I_3	qPCR	1
+AA	Sterivex	300	AA II_3	qPCR	0
+AA	Sterivex	300	AA II_3	qPCR	0
+AA	Sterivex	300	AA II_3	qPCR	0
+AA	Sterivex	300	AA II_3	qPCR	0
+AA	Sterivex	300	AA II_3	qPCR	0
+AA	Sterivex	300	AA I_4	qPCR	0
+AA	Sterivex	300	AA I_4	qPCR	0
+AA	Sterivex	300	AA I_4	qPCR	0
+AA	Sterivex	300	AA I_4	qPCR	0
+AA	Sterivex	300	AA I_4	qPCR	0
+AA	Sterivex	300	AA II_4	qPCR	0
+AA	Sterivex	300	AA II_4	qPCR	0
+AA	Sterivex	300	AA II_4	qPCR	0
+AA	Sterivex	300	AA II_4	qPCR	0
+AA	Sterivex	300	AA II_4	qPCR	0
+AA	Sterivex	600	AA V_1	qPCR	1
+AA	Sterivex	600	AA V_1	qPCR	1
+AA	Sterivex	600	AA V_1	qPCR	1
+AA	Sterivex	600	AA V_1	qPCR	1
+AA	Sterivex	600	AA V_1	qPCR	1
+AA	Sterivex	600	AA VI_1	qPCR	1
+AA	Sterivex	600	AA VI_1	qPCR	1
+AA	Sterivex	600	AA VI_1	qPCR	1
+AA	Sterivex	600	AA VI_1	qPCR	1
+AA	Sterivex	600	AA VI_1	qPCR	1
+Ly	Sterivex	300	Ly I_1	qPCR	1
+Ly	Sterivex	300	Ly I_1	qPCR	1
+Ly	Sterivex	300	Ly I_1	qPCR	1
+Ly	Sterivex	300	Ly II_1	qPCR	0
+Ly	Sterivex	300	Ly II_1	qPCR	0
+Ly	Sterivex	300	Ly II_1	qPCR	0
+Ly	Sterivex	300	Ly II_1	qPCR	0
+Ly	Sterivex	300	Ly II_1	qPCR	0
+Ly	Sterivex	300	Ly I_2	qPCR	0
+Ly	Sterivex	300	Ly I_2	qPCR	1
+Ly	Sterivex	300	Ly I_2	qPCR	1
+Ly	Sterivex	300	Ly I_2	qPCR	1
+Ly	Sterivex	300	Ly I_2	qPCR	1
+Ly	Sterivex	300	Ly II_2	qPCR	0
+Ly	Sterivex	300	Ly II_2	qPCR	0
+Ly	Sterivex	300	Ly II_2	qPCR	0
+Ly	Sterivex	300	Ly II_2	qPCR	0
+Ly	Sterivex	300	Ly II_2	qPCR	0
+Ly	Sterivex	300	Ly I_3	qPCR	1
+Ly	Sterivex	300	Ly I_3	qPCR	1
+Ly	Sterivex	300	Ly I_3	qPCR	1
+Ly	Sterivex	300	Ly I_3	qPCR	1
+Ly	Sterivex	300	Ly I_3	qPCR	1
+Ly	Sterivex	300	Ly II_3	qPCR	1
+Ly	Sterivex	300	Ly II_3	qPCR	1
+Ly	Sterivex	300	Ly II_3	qPCR	1
+Ly	Sterivex	300	Ly II_3	qPCR	1
+Ly	Sterivex	300	Ly II_3	qPCR	1
+Ly	Sterivex	300	Ly I_4	qPCR	0
+Ly	Sterivex	300	Ly I_4	qPCR	0
+Ly	Sterivex	300	Ly I_4	qPCR	0
+Ly	Sterivex	300	Ly I_4	qPCR	0
+Ly	Sterivex	300	Ly I_4	qPCR	0
+Ly	Sterivex	300	Ly II_4	qPCR	0
+Ly	Sterivex	300	Ly II_4	qPCR	0
+Ly	Sterivex	300	Ly II_4	qPCR	0
+Ly	Sterivex	300	Ly II_4	qPCR	0
+Ly	Sterivex	300	Ly II_4	qPCR	0
+Ly	Sterivex	600	Ly V_1	qPCR	1
+Ly	Sterivex	600	Ly V_1	qPCR	1
+Ly	Sterivex	600	Ly V_1	qPCR	1
+Ly	Sterivex	600	Ly V_1	qPCR	1
+Ly	Sterivex	600	Ly V_1	qPCR	1
+Ly	Sterivex	600	Ly VI_1	qPCR	1
+Ly	Sterivex	600	Ly VI_1	qPCR	1
+Ly	Sterivex	600	Ly VI_1	qPCR	1
+Ly	Sterivex	600	Ly VI_1	qPCR	1
+Ly	Sterivex	600	Ly VI_1	qPCR	1
+U	Sterivex	300	U I_1	qPCR	0
+U	Sterivex	300	U I_1	qPCR	0
+U	Sterivex	300	U I_1	qPCR	0
+U	Sterivex	300	U II_1	qPCR	0
+U	Sterivex	300	U II_1	qPCR	0
+U	Sterivex	300	U II_1	qPCR	0
+U	Sterivex	300	U II_1	qPCR	0
+U	Sterivex	300	U II_1	qPCR	0
+U	Sterivex	300	U I_2	qPCR	1
+U	Sterivex	300	U I_2	qPCR	1
+U	Sterivex	300	U I_2	qPCR	1
+U	Sterivex	300	U I_2	qPCR	1
+U	Sterivex	300	U I_2	qPCR	1
+U	Sterivex	300	U II_2	qPCR	1
+U	Sterivex	300	U II_2	qPCR	1
+U	Sterivex	300	U II_2	qPCR	1
+U	Sterivex	300	U II_2	qPCR	1
+U	Sterivex	300	U I_3	qPCR	1
+U	Sterivex	300	U I_3	qPCR	1
+U	Sterivex	300	U I_3	qPCR	1
+U	Sterivex	300	U I_3	qPCR	1
+U	Sterivex	300	U I_3	qPCR	1
+U	Sterivex	300	U II_3	qPCR	0
+U	Sterivex	300	U II_3	qPCR	0
+U	Sterivex	300	U II_3	qPCR	0
+U	Sterivex	300	U II_3	qPCR	0
+U	Sterivex	300	U II_3	qPCR	0
+U	Sterivex	300	U I_4	qPCR	0
+U	Sterivex	300	U I_4	qPCR	0
+U	Sterivex	300	U I_4	qPCR	0
+U	Sterivex	300	U I_4	qPCR	0
+U	Sterivex	300	U I_4	qPCR	0
+U	Sterivex	300	U II_4	qPCR	0
+U	Sterivex	300	U II_4	qPCR	0
+U	Sterivex	300	U II_4	qPCR	0
+U	Sterivex	300	U II_4	qPCR	0
+U	Sterivex	300	U II_4	qPCR	0
+U	Sterivex	600	U V_1	qPCR	1
+U	Sterivex	600	U V_1	qPCR	1
+U	Sterivex	600	U V_1	qPCR	1
+U	Sterivex	600	U V_1	qPCR	1
+U	Sterivex	600	U V_1	qPCR	1
+U	Sterivex	600	U VI_1	qPCR	0
+U	Sterivex	600	U VI_1	qPCR	0
+U	Sterivex	600	U VI_1	qPCR	0
+U	Sterivex	600	U VI_1	qPCR	0
+U	Sterivex	600	U VI_1	qPCR	1
+Fu	Sterivex	300	Fu I_1	qPCR	1
+Fu	Sterivex	300	Fu I_1	qPCR	1
+Fu	Sterivex	300	Fu II_1	qPCR	1
+Fu	Sterivex	300	Fu II_1	qPCR	1
+Fu	Sterivex	300	Fu II_1	qPCR	1
+Fu	Sterivex	300	Fu I_2	qPCR	0
+Fu	Sterivex	300	Fu I_2	qPCR	1
+Fu	Sterivex	300	Fu I_2	qPCR	0
+Fu	Sterivex	300	Fu I_2	qPCR	0
+Fu	Sterivex	300	Fu II_2	qPCR	1
+Fu	Sterivex	300	Fu II_2	qPCR	0
+Fu	Sterivex	300	Fu II_2	qPCR	0
+Fu	Sterivex	300	Fu II_2	qPCR	0
+Fu	Sterivex	300	Fu II_2	qPCR	0
+Fu	Sterivex	300	Fu I_3	qPCR	0
+Fu	Sterivex	300	Fu I_3	qPCR	0
+Fu	Sterivex	300	Fu I_3	qPCR	0
+Fu	Sterivex	300	Fu I_3	qPCR	0
+Fu	Sterivex	300	Fu I_3	qPCR	0
+Fu	Sterivex	300	Fu II_3	qPCR	0
+Fu	Sterivex	300	Fu II_3	qPCR	0
+Fu	Sterivex	300	Fu II_3	qPCR	0
+Fu	Sterivex	300	Fu II_3	qPCR	0
+Fu	Sterivex	300	Fu II_3	qPCR	0
+Fu	Sterivex	300	Fu I_4	qPCR	1
+Fu	Sterivex	300	Fu I_4	qPCR	1
+Fu	Sterivex	300	Fu I_4	qPCR	1
+Fu	Sterivex	300	Fu I_4	qPCR	1
+Fu	Sterivex	300	Fu I_4	qPCR	1
+Fu	Sterivex	300	Fu II_4	qPCR	1
+Fu	Sterivex	300	Fu II_4	qPCR	1
+Fu	Sterivex	300	Fu II_4	qPCR	1
+Fu	Sterivex	300	Fu II_4	qPCR	1
+Fu	Sterivex	300	Fu II_4	qPCR	1
+Fu	Sterivex	600	Fu V_1	qPCR	1
+Fu	Sterivex	600	Fu V_1	qPCR	1
+Fu	Sterivex	600	Fu V_1	qPCR	1
+Fu	Sterivex	600	Fu V_1	qPCR	1
+Fu	Sterivex	600	Fu V_1	qPCR	1
+Fu	Sterivex	600	Fu VI_1	qPCR	1
+Fu	Sterivex	600	Fu VI_1	qPCR	1
+Fu	Sterivex	600	Fu VI_1	qPCR	1
+Fu	Sterivex	600	Fu VI_1	qPCR	1
+Fu	Sterivex	600	Fu VI_1	qPCR	1
+Wi RON	Sterivex	300	Wi RON I_1	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_1	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_1	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_1	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_1	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_1	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_1	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_2	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_2	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_2	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_2	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_2	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_2	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_2	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_2	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_3	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_3	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_3	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_3	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_3	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_3	qPCR	1
+Wi RON	Sterivex	300	Wi RON II_3	qPCR	1
+Wi RON	Sterivex	300	Wi RON II_3	qPCR	1
+Wi RON	Sterivex	300	Wi RON II_3	qPCR	1
+Wi RON	Sterivex	300	Wi RON II_3	qPCR	1
+Wi RON	Sterivex	300	Wi RON I_4	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_4	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_4	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_4	qPCR	0
+Wi RON	Sterivex	300	Wi RON I_4	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_4	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_4	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_4	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_4	qPCR	0
+Wi RON	Sterivex	300	Wi RON II_4	qPCR	0
+Wi RON	Sterivex	600	Wi RON V_1	qPCR	0
+Wi RON	Sterivex	600	Wi RON V_1	qPCR	0
+Wi RON	Sterivex	600	Wi RON V_1	qPCR	0
+Wi RON	Sterivex	600	Wi RON V_1	qPCR	0
+Wi RON	Sterivex	600	Wi RON V_1	qPCR	0
+Wi RON	Sterivex	600	Wi RON VI_1	qPCR	0
+Wi RON	Sterivex	600	Wi RON VI_1	qPCR	0
+Wi RON	Sterivex	600	Wi RON VI_1	qPCR	0
+Wi RON	Sterivex	600	Wi RON VI_1	qPCR	0
+Wi RON	Sterivex	600	Wi RON VI_1	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_1	qPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_1	qPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_1	qPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_1	qPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_1	qPCR	1
+Wi ROT	Sterivex	300	Wi ROT I_2	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_2	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_2	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_2	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_2	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_2	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_2	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_2	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_2	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_2	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_3	qPCR	1
+Wi ROT	Sterivex	300	Wi ROT I_3	qPCR	1
+Wi ROT	Sterivex	300	Wi ROT I_3	qPCR	1
+Wi ROT	Sterivex	300	Wi ROT I_3	qPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_3	qPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_3	qPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_3	qPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_3	qPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_3	qPCR	1
+AA	Millex	200	AA_6_30_I_Millex	qPCR	0
+AA	Millex	200	AA_6_30_I_Millex	qPCR	0
+AA	Millex	200	AA_6_30_I_Millex	qPCR	0
+AA	Millex	200	AA_6_30_I_Millex	qPCR	0
+AA	Millex	200	AA_6_30_I_Millex	qPCR	0
+AA	Millex	200	AA_6_30_II_Millex	qPCR	0
+AA	Millex	200	AA_6_30_II_Millex	qPCR	0
+AA	Millex	200	AA_6_30_II_Millex	qPCR	0
+AA	Millex	200	AA_6_30_II_Millex	qPCR	0
+AA	Millex	200	AA_6_30_II_Millex	qPCR	0
+AA	Millex	300	AA_7_7_I_Millex	qPCR	0
+AA	Millex	300	AA_7_7_I_Millex	qPCR	0
+AA	Millex	300	AA_7_7_I_Millex	qPCR	0
+AA	Millex	300	AA_7_7_I_Millex	qPCR	0
+AA	Millex	300	AA_7_7_I_Millex	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_4	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_4	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_4	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_4	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_4	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_4	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_4	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_4	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_4	qPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_4	qPCR	0
+Wi ROT	Sterivex	600	Wi ROT V_1	qPCR	1
+Wi ROT	Sterivex	600	Wi ROT V_1	qPCR	1
+Wi ROT	Sterivex	600	Wi ROT V_1	qPCR	1
+Wi ROT	Sterivex	600	Wi ROT V_1	qPCR	1
+Wi ROT	Sterivex	600	Wi ROT V_1	qPCR	1
+Wi ROT	Sterivex	600	Wi ROT VI_1	qPCR	1
+Wi ROT	Sterivex	600	Wi ROT VI_1	qPCR	1
+Wi ROT	Sterivex	600	Wi ROT VI_1	qPCR	1
+Wi ROT	Sterivex	600	Wi ROT VI_1	qPCR	1
+Wi ROT	Sterivex	600	Wi ROT VI_1	qPCR	1
+AA	Millex	300	AA_7_7_II_Millex	qPCR	0
+AA	Millex	300	AA_7_7_II_Millex	qPCR	0
+AA	Millex	300	AA_7_7_II_Millex	qPCR	0
+AA	Millex	300	AA_7_7_II_Millex	qPCR	0
+AA	Millex	300	AA_7_14_III_Millex	qPCR	1
+AA	Millex	300	AA_7_14_III_Millex	qPCR	0
+AA	Millex	300	AA_7_14_III_Millex	qPCR	0
+AA	Millex	300	AA_7_14_III_Millex	qPCR	1
+AA	Millex	300	AA_7_14_III_Millex	qPCR	0
+AA	Millex	300	AA_7_14_IV_Millex	qPCR	0
+AA	Millex	300	AA_7_14_IV_Millex	qPCR	0
+AA	Millex	300	AA_7_14_IV_Millex	qPCR	0
+AA	Millex	300	AA_7_14_IV_Millex	qPCR	0
+AA	Millex	300	AA_7_14_IV_Millex	qPCR	0
+AA	Millex	300	AA_7_21_III_Millex	qPCR	1
+AA	Millex	300	AA_7_21_III_Millex	qPCR	1
+AA	Millex	300	AA_7_21_III_Millex	qPCR	1
+AA	Millex	300	AA_7_21_III_Millex	qPCR	1
+AA	Millex	300	AA_7_21_III_Millex	qPCR	1
+AA	Millex	300	AA_7_21_IV_Millex	qPCR	1
+AA	Millex	300	AA_7_21_IV_Millex	qPCR	1
+AA	Millex	300	AA_7_21_IV_Millex	qPCR	1
+AA	Millex	300	AA_7_21_IV_Millex	qPCR	1
+AA	Millex	300	AA_7_21_IV_Millex	qPCR	1
+AA	Millex	300	AA_7_27_III_Millex	qPCR	0
+AA	Millex	300	AA_7_27_III_Millex	qPCR	0
+AA	Millex	300	AA_7_27_III_Millex	qPCR	0
+AA	Millex	300	AA_7_27_III_Millex	qPCR	0
+AA	Millex	300	AA_7_27_III_Millex	qPCR	0
+AA	Millex	300	AA_7_27_IV_Millex	qPCR	1
+AA	Millex	300	AA_7_27_IV_Millex	qPCR	1
+AA	Millex	300	AA_7_27_IV_Millex	qPCR	1
+AA	Millex	300	AA_7_27_IV_Millex	qPCR	1
+Ly	Millex	300	Ly_6_30_I_Millex	qPCR	0
+Ly	Millex	300	Ly_6_30_I_Millex	qPCR	0
+Ly	Millex	300	Ly_6_30_I_Millex	qPCR	0
+Ly	Millex	300	Ly_6_30_I_Millex	qPCR	0
+Ly	Millex	300	Ly_6_30_I_Millex	qPCR	0
+Ly	Millex	300	Ly_6_30_II_Millex	qPCR	0
+Ly	Millex	300	Ly_6_30_II_Millex	qPCR	0
+Ly	Millex	300	Ly_6_30_II_Millex	qPCR	0
+Ly	Millex	300	Ly_6_30_II_Millex	qPCR	0
+Ly	Millex	300	Ly_6_30_II_Millex	qPCR	0
+Ly	Millex	300	Ly_7_7_I_Millex	qPCR	0
+Ly	Millex	300	Ly_7_7_I_Millex	qPCR	0
+Ly	Millex	300	Ly_7_7_I_Millex	qPCR	0
+Ly	Millex	300	Ly_7_7_I_Millex	qPCR	0
+Ly	Millex	300	Ly_7_7_I_Millex	qPCR	0
+Ly	Millex	300	Ly_7_7_II_Millex	qPCR	0
+Ly	Millex	300	Ly_7_7_II_Millex	qPCR	0
+Ly	Millex	300	Ly_7_7_II_Millex	qPCR	0
+Ly	Millex	300	Ly_7_7_II_Millex	qPCR	0
+Ly	Millex	300	Ly_7_7_II_Millex	qPCR	0
+Ly	Millex	300	Ly_7_14_III_Millex	qPCR	0
+Ly	Millex	300	Ly_7_14_III_Millex	qPCR	0
+Ly	Millex	300	Ly_7_14_III_Millex	qPCR	0
+Ly	Millex	300	Ly_7_14_III_Millex	qPCR	0
+Ly	Millex	300	Ly_7_14_III_Millex	qPCR	0
+Ly	Millex	300	Ly_7_14_IV_Millex	qPCR	0
+Ly	Millex	300	Ly_7_14_IV_Millex	qPCR	0
+Ly	Millex	300	Ly_7_14_IV_Millex	qPCR	0
+Ly	Millex	300	Ly_7_14_IV_Millex	qPCR	0
+Ly	Millex	300	Ly_7_14_IV_Millex	qPCR	0
+Ly	Millex	300	Ly_7_21_III_Millex	qPCR	1
+Ly	Millex	300	Ly_7_21_III_Millex	qPCR	1
+Ly	Millex	300	Ly_7_21_III_Millex	qPCR	1
+Ly	Millex	300	Ly_7_21_III_Millex	qPCR	1
+Ly	Millex	300	Ly_7_21_III_Millex	qPCR	1
+Ly	Millex	300	Ly_7_21_IV_Millex	qPCR	1
+Ly	Millex	300	Ly_7_21_IV_Millex	qPCR	1
+Ly	Millex	300	Ly_7_21_IV_Millex	qPCR	1
+Ly	Millex	300	Ly_7_21_IV_Millex	qPCR	1
+Ly	Millex	300	Ly_7_21_IV_Millex	qPCR	1
+Ly	Millex	300	Ly_7_27_III_Millex	qPCR	1
+Ly	Millex	300	Ly_7_27_III_Millex	qPCR	1
+Ly	Millex	300	Ly_7_27_III_Millex	qPCR	1
+Ly	Millex	300	Ly_7_27_III_Millex	qPCR	1
+Ly	Millex	300	Ly_7_27_III_Millex	qPCR	1
+Ly	Millex	300	Ly_7_27_IV_Millex	qPCR	1
+Ly	Millex	300	Ly_7_27_IV_Millex	qPCR	1
+Ly	Millex	300	Ly_7_27_IV_Millex	qPCR	1
+Ly	Millex	300	Ly_7_27_IV_Millex	qPCR	1
+Ly	Millex	300	Ly_7_27_IV_Millex	qPCR	1
+U	Millex	300	U_6_30_I_Millex	qPCR	1
+U	Millex	300	U_6_30_I_Millex	qPCR	1
+U	Millex	300	U_6_30_I_Millex	qPCR	1
+U	Millex	300	U_6_30_I_Millex	qPCR	1
+U	Millex	300	U_6_30_I_Millex	qPCR	1
+U	Millex	300	U_6_30_II_Millex	qPCR	1
+U	Millex	300	U_6_30_II_Millex	qPCR	1
+U	Millex	300	U_6_30_II_Millex	qPCR	1
+U	Millex	300	U_6_30_II_Millex	qPCR	1
+U	Millex	300	U_6_30_II_Millex	qPCR	1
+U	Millex	300	U_7_7_I_Millex	qPCR	1
+U	Millex	300	U_7_7_I_Millex	qPCR	0
+U	Millex	300	U_7_7_I_Millex	qPCR	1
+U	Millex	300	U_7_7_I_Millex	qPCR	0
+U	Millex	300	U_7_7_I_Millex	qPCR	1
+U	Millex	300	U_7_7_II_Millex	qPCR	1
+U	Millex	300	U_7_7_II_Millex	qPCR	1
+U	Millex	300	U_7_7_II_Millex	qPCR	1
+U	Millex	300	U_7_7_II_Millex	qPCR	1
+U	Millex	300	U_7_7_II_Millex	qPCR	1
+U	Millex	300	U_7_14_III_Millex	qPCR	0
+U	Millex	300	U_7_14_III_Millex	qPCR	0
+U	Millex	300	U_7_14_III_Millex	qPCR	0
+U	Millex	300	U_7_14_III_Millex	qPCR	0
+U	Millex	300	U_7_14_III_Millex	qPCR	0
+U	Millex	300	U_7_14_IV_Millex	qPCR	1
+U	Millex	300	U_7_14_IV_Millex	qPCR	1
+U	Millex	300	U_7_14_IV_Millex	qPCR	1
+U	Millex	300	U_7_14_IV_Millex	qPCR	1
+U	Millex	300	U_7_14_IV_Millex	qPCR	1
+U	Millex	250	U_7_21_III_Millex	qPCR	0
+U	Millex	250	U_7_21_III_Millex	qPCR	0
+U	Millex	250	U_7_21_III_Millex	qPCR	0
+U	Millex	250	U_7_21_III_Millex	qPCR	0
+U	Millex	250	U_7_21_III_Millex	qPCR	1
+U	Millex	250	U_7_21_IV_Millex	qPCR	1
+U	Millex	250	U_7_21_IV_Millex	qPCR	1
+U	Millex	250	U_7_21_IV_Millex	qPCR	1
+U	Millex	250	U_7_21_IV_Millex	qPCR	1
+U	Millex	250	U_7_21_IV_Millex	qPCR	1
+U	Millex	300	U_7_27_III_Millex	qPCR	0
+U	Millex	300	U_7_27_III_Millex	qPCR	0
+U	Millex	300	U_7_27_III_Millex	qPCR	0
+U	Millex	300	U_7_27_III_Millex	qPCR	0
+U	Millex	300	U_7_27_III_Millex	qPCR	0
+U	Millex	300	U_7_27_IV_Millex	qPCR	1
+U	Millex	300	U_7_27_IV_Millex	qPCR	1
+U	Millex	300	U_7_27_IV_Millex	qPCR	1
+U	Millex	300	U_7_27_IV_Millex	qPCR	1
+U	Millex	300	U_7_27_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_6_30_I_Millex	qPCR	1
+Fu	Millex	300	Fu_6_30_I_Millex	qPCR	1
+Fu	Millex	300	Fu_6_30_I_Millex	qPCR	1
+Fu	Millex	300	Fu_6_30_I_Millex	qPCR	1
+Fu	Millex	300	Fu_6_30_I_Millex	qPCR	1
+Fu	Millex	300	Fu_6_30_II_Millex	qPCR	0
+Fu	Millex	300	Fu_6_30_II_Millex	qPCR	0
+Fu	Millex	300	Fu_6_30_II_Millex	qPCR	0
+Fu	Millex	300	Fu_6_30_II_Millex	qPCR	0
+Fu	Millex	300	Fu_6_30_II_Millex	qPCR	0
+Fu	Millex	300	Fu_7_7_I_Millex	qPCR	1
+Fu	Millex	300	Fu_7_7_I_Millex	qPCR	1
+Fu	Millex	300	Fu_7_7_I_Millex	qPCR	1
+Fu	Millex	300	Fu_7_7_I_Millex	qPCR	1
+Fu	Millex	300	Fu_7_7_I_Millex	qPCR	1
+Fu	Millex	300	Fu_7_7_II_Millex	qPCR	0
+Fu	Millex	300	Fu_7_7_II_Millex	qPCR	0
+Fu	Millex	300	Fu_7_7_II_Millex	qPCR	0
+Fu	Millex	300	Fu_7_7_II_Millex	qPCR	0
+Fu	Millex	300	Fu_7_7_II_Millex	qPCR	0
+Fu	Millex	300	Fu_7_14_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_14_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_14_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_14_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_14_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_14_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_14_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_14_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_14_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_14_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_21_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_21_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_21_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_21_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_21_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_21_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_21_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_21_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_21_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_21_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_27_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_27_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_27_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_27_III_Millex	qPCR	1
+Fu	Millex	300	Fu_7_27_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_27_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_27_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_27_IV_Millex	qPCR	1
+Fu	Millex	300	Fu_7_27_IV_Millex	qPCR	1
+Wi RON	Millex	300	Wi RON_6_30_I_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_6_30_I_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_6_30_I_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_6_30_I_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_6_30_I_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_6_30_II_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_6_30_II_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_6_30_II_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_6_30_II_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_6_30_II_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_7_I_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_7_I_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_7_I_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_7_I_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_7_I_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_7_II_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_7_II_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_7_II_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_7_II_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_7_II_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_14_III_Millex	qPCR	1
+Wi RON	Millex	300	Wi RON_7_14_III_Millex	qPCR	1
+Wi RON	Millex	300	Wi RON_7_14_III_Millex	qPCR	1
+Wi RON	Millex	300	Wi RON_7_14_III_Millex	qPCR	1
+Wi RON	Millex	300	Wi RON_7_14_III_Millex	qPCR	1
+Wi RON	Millex	300	Wi RON_7_14_IV_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_14_IV_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_14_IV_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_14_IV_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_14_IV_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_21_III_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_21_III_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_21_III_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_21_III_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_21_III_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_21_IV_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_21_IV_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_21_IV_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_21_IV_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_21_IV_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_27_III_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_27_III_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_27_III_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_27_III_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_27_III_Millex	qPCR	0
+Wi RON	Millex	300	Wi RON_7_27_IV_Millex	qPCR	1
+Wi RON	Millex	300	Wi RON_7_27_IV_Millex	qPCR	1
+Wi RON	Millex	300	Wi RON_7_27_IV_Millex	qPCR	1
+Wi RON	Millex	300	Wi RON_7_27_IV_Millex	qPCR	1
+Wi RON	Millex	300	Wi RON_7_27_IV_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_6_30_I_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_6_30_I_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_6_30_I_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_6_30_I_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_6_30_I_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_6_30_II_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_6_30_II_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_6_30_II_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_6_30_II_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_6_30_II_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_7_I_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_7_I_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_7_I_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_7_I_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_7_I_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_7_II_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_7_II_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_7_II_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_7_II_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_7_II_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_14_III_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_14_III_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_14_III_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_14_III_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_14_III_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_14_IV_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_14_IV_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_14_IV_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_14_IV_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_14_IV_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_21_III_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_21_III_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_21_III_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_21_III_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_21_III_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_21_IV_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_21_IV_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_21_IV_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_21_IV_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_21_IV_Millex	qPCR	0
+Wi ROT	Millex	300	Wi ROT_7_27_III_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_27_III_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_27_III_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_27_III_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_27_III_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_27_IV_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_27_IV_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_27_IV_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_27_IV_Millex	qPCR	1
+Wi ROT	Millex	300	Wi ROT_7_27_IV_Millex	qPCR	1
+AA	Sterivex	300	AA I_1	ddPCR	0
+AA	Sterivex	300	AA I_1	ddPCR	0
+AA	Sterivex	300	AA I_1	ddPCR	0
+AA	Sterivex	300	AA I_2	ddPCR	1
+AA	Sterivex	300	AA I_2	ddPCR	1
+AA	Sterivex	300	AA I_2	ddPCR	1
+AA	Sterivex	300	AA I_3	ddPCR	1
+AA	Sterivex	300	AA I_3	ddPCR	1
+AA	Sterivex	300	AA I_3	ddPCR	1
+AA	Sterivex	300	AA I_4	ddPCR	0
+AA	Sterivex	300	AA I_4	ddPCR	0
+AA	Sterivex	300	AA I_4	ddPCR	0
+AA	Sterivex	300	AA II_1	ddPCR	0
+AA	Sterivex	300	AA II_1	ddPCR	0
+AA	Sterivex	300	AA II_1	ddPCR	0
+AA	Sterivex	300	AA II_2	ddPCR	0
+AA	Sterivex	300	AA II_2	ddPCR	0
+AA	Sterivex	300	AA II_2	ddPCR	0
+AA	Sterivex	300	AA II_3	ddPCR	0
+AA	Sterivex	300	AA II_3	ddPCR	0
+AA	Sterivex	300	AA II_3	ddPCR	0
+AA	Sterivex	300	AA II_4	ddPCR	0
+AA	Sterivex	300	AA II_4	ddPCR	0
+AA	Sterivex	300	AA II_4	ddPCR	0
+AA	Sterivex	600	AA V_1	ddPCR	1
+AA	Sterivex	600	AA V_1	ddPCR	1
+AA	Sterivex	600	AA V_1	ddPCR	1
+AA	Sterivex	600	AA VI_1	ddPCR	1
+AA	Sterivex	600	AA VI_1	ddPCR	1
+AA	Sterivex	600	AA VI_1	ddPCR	1
+Fu	Sterivex	300	Fu I_1	ddPCR	1
+Fu	Sterivex	300	Fu I_1	ddPCR	1
+Fu	Sterivex	300	Fu I_1	ddPCR	1
+Fu	Sterivex	300	Fu I_2	ddPCR	0
+Fu	Sterivex	300	Fu I_2	ddPCR	0
+Fu	Sterivex	300	Fu I_2	ddPCR	1
+Fu	Sterivex	300	Fu I_3	ddPCR	0
+Fu	Sterivex	300	Fu I_3	ddPCR	0
+Fu	Sterivex	300	Fu I_3	ddPCR	0
+Fu	Sterivex	300	Fu I_4	ddPCR	1
+Fu	Sterivex	300	Fu I_4	ddPCR	1
+Fu	Sterivex	300	Fu I_4	ddPCR	1
+Fu	Sterivex	300	Fu II_1	ddPCR	1
+Fu	Sterivex	300	Fu II_1	ddPCR	1
+Fu	Sterivex	300	Fu II_1	ddPCR	1
+Fu	Sterivex	300	Fu II_2	ddPCR	0
+Fu	Sterivex	300	Fu II_2	ddPCR	0
+Fu	Sterivex	300	Fu II_2	ddPCR	0
+Fu	Sterivex	300	Fu II_3	ddPCR	0
+Fu	Sterivex	300	Fu II_3	ddPCR	0
+Fu	Sterivex	300	Fu II_3	ddPCR	0
+Fu	Sterivex	300	Fu II_4	ddPCR	1
+Fu	Sterivex	300	Fu II_4	ddPCR	1
+Fu	Sterivex	300	Fu II_4	ddPCR	1
+Fu	Sterivex	600	Fu V_1	ddPCR	1
+Fu	Sterivex	600	Fu V_1	ddPCR	1
+Fu	Sterivex	600	Fu V_1	ddPCR	1
+Fu	Sterivex	600	Fu VI_1	ddPCR	1
+Fu	Sterivex	600	Fu VI_1	ddPCR	1
+Fu	Sterivex	600	Fu VI_1	ddPCR	1
+Ly	Sterivex	300	Ly I_1	ddPCR	1
+Ly	Sterivex	300	Ly I_1	ddPCR	1
+Ly	Sterivex	300	Ly I_1	ddPCR	1
+Ly	Sterivex	300	Ly I_2	ddPCR	0
+Ly	Sterivex	300	Ly I_2	ddPCR	1
+Ly	Sterivex	300	Ly I_2	ddPCR	1
+Ly	Sterivex	300	Ly I_3	ddPCR	1
+Ly	Sterivex	300	Ly I_3	ddPCR	1
+Ly	Sterivex	300	Ly I_3	ddPCR	1
+Ly	Sterivex	300	Ly I_4	ddPCR	0
+Ly	Sterivex	300	Ly I_4	ddPCR	0
+Ly	Sterivex	300	Ly I_4	ddPCR	0
+Ly	Sterivex	300	Ly II_1	ddPCR	0
+Ly	Sterivex	300	Ly II_1	ddPCR	0
+Ly	Sterivex	300	Ly II_1	ddPCR	0
+Ly	Sterivex	300	Ly II_2	ddPCR	0
+Ly	Sterivex	300	Ly II_2	ddPCR	0
+Ly	Sterivex	300	Ly II_2	ddPCR	0
+Ly	Sterivex	300	Ly II_3	ddPCR	1
+Ly	Sterivex	300	Ly II_3	ddPCR	0
+Ly	Sterivex	300	Ly II_3	ddPCR	0
+Ly	Sterivex	300	Ly II_4	ddPCR	0
+Ly	Sterivex	300	Ly II_4	ddPCR	0
+Ly	Sterivex	300	Ly II_4	ddPCR	0
+Ly	Sterivex	600	Ly V_1	ddPCR	1
+Ly	Sterivex	600	Ly V_1	ddPCR	1
+Ly	Sterivex	600	Ly V_1	ddPCR	1
+Ly	Sterivex	600	Ly VI_1	ddPCR	1
+Ly	Sterivex	600	Ly VI_1	ddPCR	1
+Ly	Sterivex	600	Ly VI_1	ddPCR	1
+U	Sterivex	300	U I_1	ddPCR	0
+U	Sterivex	300	U I_1	ddPCR	0
+U	Sterivex	300	U I_1	ddPCR	0
+U	Sterivex	300	U I_2	ddPCR	1
+U	Sterivex	300	U I_2	ddPCR	1
+U	Sterivex	300	U I_2	ddPCR	1
+U	Sterivex	300	U I_3	ddPCR	1
+U	Sterivex	300	U I_3	ddPCR	1
+U	Sterivex	300	U I_3	ddPCR	1
+U	Sterivex	300	U I_4	ddPCR	0
+U	Sterivex	300	U I_4	ddPCR	0
+U	Sterivex	300	U I_4	ddPCR	0
+U	Sterivex	300	U II_1	ddPCR	0
+U	Sterivex	300	U II_1	ddPCR	0
+U	Sterivex	300	U II_1	ddPCR	0
+U	Sterivex	300	U II_2	ddPCR	1
+U	Sterivex	300	U II_2	ddPCR	1
+U	Sterivex	300	U II_2	ddPCR	1
+U	Sterivex	300	U II_3	ddPCR	0
+U	Sterivex	300	U II_3	ddPCR	0
+U	Sterivex	300	U II_3	ddPCR	0
+U	Sterivex	300	U II_4	ddPCR	0
+U	Sterivex	300	U II_4	ddPCR	0
+U	Sterivex	300	U II_4	ddPCR	0
+U	Sterivex	600	U V_1	ddPCR	1
+U	Sterivex	600	U V_1	ddPCR	1
+U	Sterivex	600	U V_1	ddPCR	1
+U	Sterivex	600	U VI_1	ddPCR	0
+U	Sterivex	600	U VI_1	ddPCR	0
+U	Sterivex	600	U VI_1	ddPCR	0
+Wi RON	Sterivex	300	Wi RON I_1	ddPCR	0
+Wi RON	Sterivex	300	Wi RON I_1	ddPCR	0
+Wi RON	Sterivex	300	Wi RON I_1	ddPCR	0
+Wi RON	Sterivex	300	Wi RON I_2	ddPCR	0
+Wi RON	Sterivex	300	Wi RON I_2	ddPCR	0
+Wi RON	Sterivex	300	Wi RON I_2	ddPCR	0
+Wi RON	Sterivex	300	Wi RON I_3	ddPCR	0
+Wi RON	Sterivex	300	Wi RON I_3	ddPCR	0
+Wi RON	Sterivex	300	Wi RON I_3	ddPCR	0
+Wi RON	Sterivex	300	Wi RON I_4	ddPCR	0
+Wi RON	Sterivex	300	Wi RON I_4	ddPCR	0
+Wi RON	Sterivex	300	Wi RON I_4	ddPCR	0
+Wi RON	Sterivex	300	Wi RON II_1	ddPCR	0
+Wi RON	Sterivex	300	Wi RON II_1	ddPCR	0
+Wi RON	Sterivex	300	Wi RON II_1	ddPCR	0
+Wi RON	Sterivex	300	Wi RON II_2	ddPCR	0
+Wi RON	Sterivex	300	Wi RON II_2	ddPCR	0
+Wi RON	Sterivex	300	Wi RON II_2	ddPCR	0
+Wi RON	Sterivex	300	Wi RON II_3	ddPCR	1
+Wi RON	Sterivex	300	Wi RON II_3	ddPCR	1
+Wi RON	Sterivex	300	Wi RON II_3	ddPCR	1
+Wi RON	Sterivex	300	Wi RON II_4	ddPCR	0
+Wi RON	Sterivex	300	Wi RON II_4	ddPCR	0
+Wi RON	Sterivex	300	Wi RON II_4	ddPCR	0
+Wi RON	Sterivex	600	Wi RON V_1	ddPCR	0
+Wi RON	Sterivex	600	Wi RON V_1	ddPCR	0
+Wi RON	Sterivex	600	Wi RON V_1	ddPCR	1
+Wi RON	Sterivex	600	Wi RON VI_1	ddPCR	0
+Wi RON	Sterivex	600	Wi RON VI_1	ddPCR	0
+Wi RON	Sterivex	600	Wi RON VI_1	ddPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_1	ddPCR	1
+Wi ROT	Sterivex	300	Wi ROT I_1	ddPCR	1
+Wi ROT	Sterivex	300	Wi ROT I_1	ddPCR	1
+Wi ROT	Sterivex	300	Wi ROT I_2	ddPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_2	ddPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_2	ddPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_3	ddPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_3	ddPCR	1
+Wi ROT	Sterivex	300	Wi ROT I_3	ddPCR	1
+Wi ROT	Sterivex	300	Wi ROT I_4	ddPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_4	ddPCR	0
+Wi ROT	Sterivex	300	Wi ROT I_4	ddPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_1	ddPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_1	ddPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_1	ddPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_2	ddPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_2	ddPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_2	ddPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_3	ddPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_3	ddPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_3	ddPCR	1
+Wi ROT	Sterivex	300	Wi ROT II_4	ddPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_4	ddPCR	0
+Wi ROT	Sterivex	300	Wi ROT II_4	ddPCR	0
+Wi ROT	Sterivex	600	Wi ROT V_1	ddPCR	1
+Wi ROT	Sterivex	600	Wi ROT V_1	ddPCR	1
+Wi ROT	Sterivex	600	Wi ROT V_1	ddPCR	1
+Wi ROT	Sterivex	600	Wi ROT VI_1	ddPCR	1
+Wi ROT	Sterivex	600	Wi ROT VI_1	ddPCR	1
+Wi ROT	Sterivex	600	Wi ROT VI_1	ddPCR	1
